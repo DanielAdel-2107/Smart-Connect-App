@@ -1,0 +1,2 @@
+D:/Final_work/work/smart_connect/android/app/.cxx/Debug/1o01c5d4/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Final_work/work/smart_connect/android/app/.cxx/Debug/1o01c5d4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
